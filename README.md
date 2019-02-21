@@ -1,1 +1,1 @@
-# Pokedex Api
+![pokedex-logo](/resources/pokedex-logo.png)
